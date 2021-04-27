@@ -1,6 +1,5 @@
 {
   "version": "1",
-  "applink": "www.google.com",
-  "showads": "true",
+  "packagename": "www.google.com",
   "mustupdate": "false"
 }
